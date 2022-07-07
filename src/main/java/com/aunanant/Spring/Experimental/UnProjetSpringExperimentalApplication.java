@@ -1,13 +1,13 @@
-package com.bezkoder.spring.datajpa;
+package com.aunanant.Spring.Experimental;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootDataJpaApplication {
+public class UnProjetSpringExperimentalApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootDataJpaApplication.class, args);
+		SpringApplication.run(UnProjetSpringExperimentalApplication.class, args);
 	}
 
 }
